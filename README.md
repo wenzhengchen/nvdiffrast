@@ -1,2 +1,2 @@
 # nvdiffrast
-warpper of nvidffrast
+a simple warpper of nvdiffrast.
